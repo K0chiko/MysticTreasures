@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (FirstApp.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MiniGames.cpp
+  MysticTreasures.cpp
+E:\3_MyProjects\Cpp_Learn\TextGame\FirstApp\MysticTreasures.cpp(18,30): warning C4101: survivors: неиспользованная локальная переменная
+E:\3_MyProjects\Cpp_Learn\TextGame\FirstApp\MysticTreasures.cpp(18,22): warning C4101: killed: неиспользованная локальная переменная
+E:\3_MyProjects\Cpp_Learn\TextGame\FirstApp\MysticTreasures.cpp(18,10): warning C4101: adventures: неиспользованная локальная переменная
+  Создание кода...
+  FirstApp.vcxproj -> E:\3_MyProjects\Cpp_Learn\TextGame\x64\Debug\MysticTreasures.exe
